@@ -1,5 +1,8 @@
 # Spring Boot + MySQL Application + Nginx (Reverse-Proxy)
 ---
+<img width="1132" height="774" alt="image" src="https://github.com/user-attachments/assets/461d49db-abe8-476c-9dad-544b8a285d41" />
+
+---
 ## Configuration Details
 ### `application.properties`
 ```properties
